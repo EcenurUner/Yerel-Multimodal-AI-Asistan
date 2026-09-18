@@ -4,14 +4,6 @@ Bu proje, yerel olarak çalışan ve farklı girdi türlerini (metin, görsel vb
 
 ---
 
-## 🎥 Proje Demo & Tanıtım Videosu
-
-Projenin çalışma mantığını ve kullanımını gösteren kısa videoyu aşağıdaki bağlantıdan izleyebilirsiniz:
-
-👉 **[Proje Demo Videosunu İzlemek İçin Tıklayın](https://youtu.be/hCG5hVEW03I)**
-
----
-
 ## 🛠️ Kurulum ve Çalıştırma
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları sırasıyla takip edebilirsiniz:
